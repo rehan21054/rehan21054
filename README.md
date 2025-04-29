@@ -1,16 +1,28 @@
-## Hi there 👋
+💐Resource flowers gift website for someone
 
-<!--
-**rehan21054/rehan21054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Flowers for Someone 🌸
 
-Here are some ideas to get you started:
+Welcome to Flowers for Someone! 🌼 This repository hosts the codebase for a charming website dedicated to the art of gifting flowers to your loved ones. Express your sentiments with the beauty of nature!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Table of Contents
+- [Introduction](#introduction)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+
+## Introduction
+
+Flowers for Someone is your ultimate destination for heartfelt floral gifting. Whether it's a special occasion or just to brighten someone's day, our website offers a delightful of flower arrangements, bouquets, and personalized messages.
+
+## Technologies Used
+
+This project utilizes the following programming languages and technologies:
+- HTML
+- CSS
+- SCSS (Sass)
+- JavaScript
+
+## Installation
+
+To run this project locally, follow these steps:
+
+1. Clone this repository to your local machine:
